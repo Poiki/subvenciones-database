@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignorar todo por defecto
+*
+
+# Permitir explícitamente estos ficheros:
+!.gitignore
+!.gitattributes
+!README.md
+!*.zip
